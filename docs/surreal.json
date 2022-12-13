@@ -1,0 +1,58 @@
+{
+  "logo": "logo.png",
+  "tag": "preview",
+  "version": "1.0.0",
+  "name": "Showcase #1",
+  "url": "surrealdocs.com",
+  "organization": "Medelfor, Limited",
+  "copyright": "Copyright © 2022, Medelfor, Limited",
+  "docs_title": "Surreal Docs Showcase",
+  "language": "en-US",
+  "master": "docs/gettingstarted",
+  "images_root": "images",
+  "contents": [
+    {
+      "title": "Guides",
+      "pages": [
+        {
+          "page": "docs/gettingstarted",
+          "is_pinned": true
+        }
+      ]
+    },
+    {
+      "title": "Documentation",
+      "pages": [
+        {
+          "page": "docs/howtos"
+        },
+        {
+          "api": "cpp"
+        },
+        {
+          "api": "blueprint"
+        },
+        {
+          "title": "Source Code",
+          "page": "https://github.com/medelfor/showcase-1",
+          "is_external": true
+        }
+      ]
+    },
+    {
+      "title": "Socials",
+      "pages": [
+        {
+          "title": "Follow us on LinkedIn",
+          "page": "https://linkedin.com/company/medelfor",
+          "is_external": true
+        },
+        {
+          "title": "Follow us on Twitter",
+          "page": "https://twitter.com/medelfor",
+          "is_external": true
+        }
+      ]
+    }
+  ]
+}
